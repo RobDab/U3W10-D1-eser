@@ -1,0 +1,13 @@
+div {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  background-color: lightgreen;
+  position: sticky;
+  top: 0;
+}
+
+app-navbar {
+  display: flex;
+  align-items: center;
+}
